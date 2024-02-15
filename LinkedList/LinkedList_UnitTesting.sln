@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList.csproj", "{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTesting", "..\Test_Assignment_3_1\UnitTesting.csproj", "{F477EA49-2453-4D52-9307-D331DF76FF8D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F40A29F8-F6D6-497D-89D6-970CBC8CF0CF} = {F40A29F8-F6D6-497D-89D6-970CBC8CF0CF}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
