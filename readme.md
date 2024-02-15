@@ -1,4 +1,4 @@
-# Singly Linked List and Object Serialization in C#
+# Unit Testing
 
 This C# project provides a comprehensive implementation of a singly linked list, alongside serialization and deserialization functionality for User objects. Designed with best practices in mind, this project is developed in Visual Studio and includes a robust suite of unit tests to ensure reliability and performance.
 
