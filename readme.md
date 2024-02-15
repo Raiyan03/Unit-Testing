@@ -32,3 +32,7 @@ To run the unit tests:
 
 1. Open the Test Explorer in Visual Studio.
 2. Click on Run All or right-click on the test project and select Run Tests.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
